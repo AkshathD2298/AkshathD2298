@@ -26,9 +26,6 @@ I am a Cloud Data Engineer with 2+ years of experience building scalable ETL pip
 - **Redshift Data Modeling** – SQL scripts and data modeling for analytical databases  
 - **Data Processing with PySpark** – Transforming semi-structured datasets into cleaned data for analysis
 
-## 📈 GitHub Stats
-![Akshath's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshathD2298&show_icons=true&theme=radical)
 
----
 
 *Feel free to connect! I’m open to collaborations and new opportunities in data engineering and cloud computing.*
