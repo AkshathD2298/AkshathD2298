@@ -1,31 +1,62 @@
-# Hi there 👋, I'm Akshath Dsouza
+# 👋 Hi there, I'm Akshath Dsouza
 
 ## 🚀 About Me
-I am a Cloud Data Engineer with 2+ years of experience building scalable ETL pipelines and data solutions using AWS Glue, Azure Data Factory, Informatica PowerCenter, PySpark, and SQL. Passionate about transforming disconnected and semi-structured data into actionable insights.
 
-- 🔭 Currently working on cloud ETL pipelines and automation workflows  
-- 🌱 Continuously learning about AWS Lake Formation, Data Lakehouse architectures, and advanced data engineering patterns  
-- 💬 Ask me about AWS Glue, Azure Data Factory, Informatica, Redshift, PySpark, Python, and SQL  
-- 📫 How to reach me: [akshathdsouza226@gmail.com](mailto:akshathdsouza226@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshathdsouza) | 
+I’m a **Cloud Data Engineer** with 2.5+ years of experience building **scalable ETL and real-time streaming pipelines** across AWS, Azure, and modern data stacks. I’ve worked on high-impact freelance projects and internships, helping businesses transform messy, semi-structured data into meaningful insights using **Snowflake, Kafka, dbt, and Databricks**.
 
-## 🛠 Technologies & Tools
+Currently freelancing as a Data Engineer while actively looking for **full-time opportunities** in **data engineering, data platforms, or cloud-native analytics roles**.
+
+- 🔭 Working on end-to-end data pipelines using Snowflake, Kafka, dbt, and PySpark  
+- 🌱 Exploring Lakehouse architectures, event-driven ETL, and serverless cloud frameworks  
+- 💬 Ask me about: Airflow, AWS Glue, Azure Data Factory, dbt, Snowpipe, PySpark, SQL, Kafka  
+- 📫 Reach me at: [akshathdsouza226@gmail.com](mailto:akshathdsouza226@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshathdsouza) | [Portfolio](https://akshathdataengineer.netlify.app)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+**Data & ETL**  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FC6D26?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF4C43?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica-FF6F00?style=for-the-badge&logo=informatica&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+---
+
 ## 📂 Featured Projects
-- **AWS Glue ETL Pipeline Demo** – Example of building ETL workflows using AWS Glue and PySpark  
-- **Azure Data Factory Pipelines** – Sample pipelines for orchestrating cloud data workflows  
-- **Informatica PowerCenter ETL** – Workflows and mappings for enterprise data integration  
-- **Redshift Data Modeling** – SQL scripts and data modeling for analytical databases  
-- **Data Processing with PySpark** – Transforming semi-structured datasets into cleaned data for analysis
+
+- 🔹 **[Spotify ETL Pipeline (AWS + Python)](https://github.com/AkshathD2298/Spotify_ETL_Pipeline_on_AWS-Python-)**  
+  Built a fully automated ETL pipeline that extracts music data from the Spotify API, transforms it using AWS Lambda, and loads it into Amazon Athena for querying. Leveraged S3, Glue Crawlers, 
+  and CloudWatch for orchestration.  
+  → *Technologies:* Python, AWS Lambda, S3, Glue, Athena, CloudWatch
+
+- 🔹 **YouTube Analytics Pipeline (AWS)**  
+  Built a serverless ETL pipeline using S3, Lambda, Glue, Athena & QuickSight to analyze trending video data — processes 100K+ records daily.
+
+- 🔹 **Olympic Data Platform (Azure)**  
+  Built a medallion architecture using Databricks + Synapse + Power BI. Implemented ML prediction for athlete performance with 85% accuracy.
+
+- 🔹 **Real-time CDC Streaming (Snowflake + Kafka)**  
+  Designed a real-time pipeline using Snowpipe, Streams, Kafka, and Python — cut data latency from hours to minutes.
 
 
+---
 
-*Feel free to connect! I’m open to collaborations and new opportunities in data engineering and cloud computing.*
+*Thanks for stopping by! I’m open to freelance collaborations, data engineering roles, or just geeking out about cloud pipelines.*  
+Let’s connect. 🚀 add this project here and give direct links https://github.com/AkshathD2298/Spotify_ETL_Pipeline_on_AWS-Python-
